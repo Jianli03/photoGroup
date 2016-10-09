@@ -2,39 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7bb993e-3827-45d3-af59-12c175589652" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/2016 september 24 photo winners 2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/2016 september 24 photo winners 3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/2016 september 24 photo winners 4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/2016 september 24 photo winners 5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/2016 september 24 photo winners.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/2016 september 25 extra winners 3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/2016 september 25 extra winners 4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/2016 september 25 extra winners.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/2016 september 25 photo winners 7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/2016 september 25 photo winners.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/2016 september 26 photo winners 2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/2016 september 26 photo winners.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/humans.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/newyork.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/paris.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sanfran.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/chicago.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/img_band_chicago.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/img_band_la.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/img_band_ny.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/la.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/ny.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/src/css/main.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/normalize.css" afterPath="$PROJECT_DIR$/src/css/normalize.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/bandmember.jpg" afterPath="$PROJECT_DIR$/src/img/bandmember.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
     </list>
     <ignored path="photoGroup.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -91,10 +59,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="473" />
-    <option name="y" value="67" />
-    <option name="width" value="2048" />
-    <option name="height" value="1505" />
+    <option name="x" value="519" />
+    <option name="y" value="33" />
+    <option name="width" value="1192" />
+    <option name="height" value="1084" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -121,7 +89,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -193,6 +160,7 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -303,11 +271,14 @@
       <workItem from="1475740581732" duration="2020000" />
       <workItem from="1475750066299" duration="7833000" />
       <workItem from="1475760044397" duration="1038000" />
+      <workItem from="1475809266642" duration="107000" />
+      <workItem from="1475883475678" duration="10000" />
+      <workItem from="1475921271797" duration="601000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57270000" />
+    <option name="totallyTimeSpent" value="57988000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -319,17 +290,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="473" y="67" width="2048" height="1505" extended-state="0" />
-    <editor active="true" />
+    <frame x="519" y="33" width="1192" height="1084" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2615462" sideWeight="0.8714448" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32951945" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2608319" sideWeight="0.8390625" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3277311" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32951757" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.331045" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2615462" sideWeight="0.12855518" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2608319" sideWeight="0.1609375" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
