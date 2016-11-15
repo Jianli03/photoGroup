@@ -2,7 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7bb993e-3827-45d3-af59-12c175589652" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/large/2016 october 17 photo for web 12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/large/2016 october 17 photos 5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/large/2016 october 17 photos for web 10 .jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/large/2016 october 17 photos for web 2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/large/2016 october 17 photos for web 3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/large/2016 october 17 photos for web 4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/large/2016 october 17 photos for web.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/large/2016 october photos for web 7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/previews/bestinshow.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/previews/junior.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/previews/mono.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/previews/people.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/previews/peopleschoice.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/previews/plant.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/2016 september 24 photo winners 2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/2016 september 24 photo winners 3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/2016 september 24 photo winners 4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/2016 september 24 photo winners 5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/2016 september 24 photo winners.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/src.rar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/404.html" afterPath="$PROJECT_DIR$/404.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/css/font-awesome.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/css/normalize.css" afterPath="$PROJECT_DIR$/css/normalize.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/favicon.ico" afterPath="$PROJECT_DIR$/favicon.ico" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/humans.txt" afterPath="$PROJECT_DIR$/humans.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/2014.jpg" afterPath="$PROJECT_DIR$/img/previews/2014.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/2015.jpg" afterPath="$PROJECT_DIR$/img/previews/2015.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/2016 september 25 extra winners 3.png" afterPath="$PROJECT_DIR$/img/2016 september 25 extra winners 3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/2016 september 25 extra winners 4.png" afterPath="$PROJECT_DIR$/img/2016 september 25 extra winners 4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/2016 september 25 extra winners.png" afterPath="$PROJECT_DIR$/img/2016 september 25 extra winners.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/2016 september 25 photo winners 7.png" afterPath="$PROJECT_DIR$/img/2016 september 25 photo winners 7.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/2016 september 25 photo winners.png" afterPath="$PROJECT_DIR$/img/2016 september 25 photo winners.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/2016 september 26 photo winners 2.png" afterPath="$PROJECT_DIR$/img/2016 september 26 photo winners 2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/2016 september 26 photo winners.png" afterPath="$PROJECT_DIR$/img/2016 september 26 photo winners.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/2016.jpg" afterPath="$PROJECT_DIR$/img/2016.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/bandmember.jpg" afterPath="$PROJECT_DIR$/img/bandmember.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/carousel1.jpg" afterPath="$PROJECT_DIR$/img/carousel1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/carousel2.jpg" afterPath="$PROJECT_DIR$/img/carousel2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/carousel3.jpg" afterPath="$PROJECT_DIR$/img/carousel3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/choice.jpg" afterPath="$PROJECT_DIR$/img/choice.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/golden.jpg" afterPath="$PROJECT_DIR$/img/golden.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/junior.jpg" afterPath="$PROJECT_DIR$/img/junior.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/mention.jpg" afterPath="$PROJECT_DIR$/img/mention.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/mono.jpg" afterPath="$PROJECT_DIR$/img/mono.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/parrot.jpg" afterPath="$PROJECT_DIR$/img/parrot.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/tree.jpg" afterPath="$PROJECT_DIR$/img/tree.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/wet.jpg" afterPath="$PROJECT_DIR$/img/wet.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robots.txt" afterPath="$PROJECT_DIR$/robots.txt" />
     </list>
     <ignored path="photoGroup.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,16 +77,13 @@
     </favorites_list>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/index.html">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
-              <folding>
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
+            <state relative-caret-position="46">
+              <caret line="115" column="14" selection-start-line="115" selection-start-column="14" selection-end-line="115" selection-end-column="14" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -48,6 +98,7 @@
       <list>
         <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/src/css/main.css" />
         <option value="$PROJECT_DIR$/src/index.html" />
       </list>
     </option>
@@ -59,10 +110,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="519" />
-    <option name="y" value="33" />
-    <option name="width" value="1192" />
-    <option name="height" value="1084" />
+    <option name="x" value="263" />
+    <option name="width" value="1110" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -89,6 +139,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -107,60 +158,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="photoGroup" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="photoGroup" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="photoGroup" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="photoGroup" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="photoGroup" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="photoGroup" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -172,15 +172,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\imoocwork\photoGroup\src\img" />
       <recent name="D:\imoocwork\photoGroup\src" />
+      <recent name="D:\imoocwork\photoGroup\src\img" />
       <recent name="D:\imoocwork\photoGroup" />
       <recent name="D:\imoocwork\photoGroup\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\imoocwork\photoGroup" />
+      <recent name="D:\imoocwork\photoGroup\src\img\previews" />
+      <recent name="D:\imoocwork\photoGroup\src\img\large" />
       <recent name="D:\imoocwork\photoGroup\src\img" />
-      <recent name="D:\imoocwork\photoGroup\src" />
-      <recent name="D:\imoocwork\photoGroup\img" />
+      <recent name="D:\imoocwork\photoGroup\src\img2" />
     </key>
   </component>
   <component name="RunManager">
@@ -274,11 +276,23 @@
       <workItem from="1475809266642" duration="107000" />
       <workItem from="1475883475678" duration="10000" />
       <workItem from="1475921271797" duration="601000" />
+      <workItem from="1476057488793" duration="23652000" />
+      <workItem from="1476094216400" duration="1038000" />
+      <workItem from="1476154013283" duration="896000" />
+      <workItem from="1476329610748" duration="6178000" />
+      <workItem from="1476354023610" duration="449000" />
+      <workItem from="1476623529062" duration="4008000" />
+      <workItem from="1476655178008" duration="598000" />
+      <workItem from="1476673982353" duration="3647000" />
+      <workItem from="1476829593831" duration="2506000" />
+      <workItem from="1476837323660" duration="145000" />
+      <workItem from="1476837509971" duration="65000" />
+      <workItem from="1479180450493" duration="102000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57988000" />
+    <option name="totallyTimeSpent" value="101272000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -290,23 +304,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="519" y="33" width="1192" height="1084" extended-state="0" />
+    <frame x="263" y="0" width="1110" height="1047" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2608319" sideWeight="0.8390625" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3277311" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24720149" sideWeight="0.72568303" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13229166" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32951757" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.331045" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2608319" sideWeight="0.1609375" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24720149" sideWeight="0.27431694" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1254902" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -327,191 +341,26 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/css/normalize.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/normalize.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/01.html" />
-    <entry file="file://$PROJECT_DIR$/img/city.jpg" />
-    <entry file="file://$PROJECT_DIR$/img/city2.jpg" />
-    <entry file="file://$PROJECT_DIR$/src/img/la.jpg" />
-    <entry file="file://$PROJECT_DIR$/src/img/paris.jpg" />
-    <entry file="file://$PROJECT_DIR$/src/css/normalize.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/pic01.jpg" />
-    <entry file="file://$PROJECT_DIR$/img/pic02.jpg" />
-    <entry file="file://$PROJECT_DIR$/img/pic03.jpg" />
-    <entry file="file://$PROJECT_DIR$/img/eastland.jpg" />
-    <entry file="file://$PROJECT_DIR$/img/banner.jpg" />
-    <entry file="file://$PROJECT_DIR$/src/img/sanfran.jpg" />
-    <entry file="file://$PROJECT_DIR$/src/img/img_band_chicago.jpg" />
-    <entry file="file://$PROJECT_DIR$/src/img/img_band_ny.jpg" />
-    <entry file="file://$PROJECT_DIR$/src/img/img_band_la.jpg" />
-    <entry file="file://$PROJECT_DIR$/src/img/ny.jpg" />
-    <entry file="file://$PROJECT_DIR$/src/img/chicago.jpg" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-116">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.editorconfig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/404.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/img/2016 september 24 photo winners 3.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/img/2016 september 24 photo winners 2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/img/2016 september 25 extra winners 4.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/humans.txt">
+    <entry file="file://$PROJECT_DIR$/humans.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/img/2016 september 25 extra winners.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/img/2016 september 24 photo winners.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/2016 september 24 photo winners.png" />
     <entry file="file://$PROJECT_DIR$/src/img/carousel2.png" />
-    <entry file="file://$PROJECT_DIR$/src/img/carousel1.jpg">
+    <entry file="file://$PROJECT_DIR$/img/carousel1.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/img/carousel2.jpg">
+    <entry file="file://$PROJECT_DIR$/img/carousel2.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/img/carousel3.jpg">
+    <entry file="file://$PROJECT_DIR$/img/carousel3.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -521,21 +370,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="500" column="16" selection-start-line="500" selection-start-column="16" selection-end-line="500" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/img/bandmember.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/img/2014.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/img/2015.jpg">
+    <entry file="file://$PROJECT_DIR$/img/bandmember.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -543,19 +381,187 @@
     <entry file="file://$PROJECT_DIR$/src/img/2016.gif" />
     <entry file="file://$PROJECT_DIR$/src/img/junior.gif" />
     <entry file="file://$PROJECT_DIR$/src/img/choise.jpg" />
-    <entry file="file://$PROJECT_DIR$/src/img/tree.jpg">
+    <entry file="file://$USER_HOME$/Desktop/ExpandingSearchBar/js/classie.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="135" column="39" selection-start-line="135" selection-start-column="39" selection-end-line="135" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img2/2016 october 17 photos for web 8.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/img2/2016 october photos for web 9.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/choice.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.html">
+    <entry file="file://$PROJECT_DIR$/img/junior.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/golden.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/previews/plant.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/previews/peopleschoice.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/previews/people.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/previews/mono.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/previews/junior.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/previews/bestinshow.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/previews/2015.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/previews/2014.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/wet.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/tree.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/parrot.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/mono.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/mention.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/large/2016 october photos for web 7.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/large/2016 october 17 photo for web 12.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/large/2016 october 17 photos for web 2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/large/2016 october 17 photos for web 3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/2016 september 24 photo winners 2.png" />
+    <entry file="file://$PROJECT_DIR$/src/img/2016 september 24 photo winners 3.png" />
+    <entry file="file://$PROJECT_DIR$/src/img/2016 september 24 photo winners 4.png" />
+    <entry file="file://$PROJECT_DIR$/img/2016 september 26 photo winners.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/2016 september 26 photo winners 2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/2016 september 25 photo winners 7.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/2016 september 25 extra winners.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/2016 september 25 extra winners 4.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/2016 september 25 extra winners 3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/large/2016 october 17 photos 5.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/large/2016 october 17 photos for web.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/large/2016 october 17 photos for web 10 .jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/large/2016 october 17 photos for web 4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/advanced JavaScript/表单美化/select_finished/css/public.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
-          <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="115" column="14" selection-start-line="115" selection-start-column="14" selection-end-line="115" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>

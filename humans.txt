@@ -1,0 +1,23 @@
+
+
+/* TEAM */
+	Developer: James
+	Contact: jianli03@gmail.com
+
+	Graphic Design: Trevor
+	Contact: rockmonitor@gmail.com
+
+	Site: http://graphygroup-healthmont.xxx.com
+	From: Healthomont, Victoria, Australia
+
+/* Thank */
+    Heathmont Community Centre
+
+/* SITE */
+	Last update:2013/4/11
+	Language:English
+	Doctype:HTML5
+	Standards: HTML5, CSS3
+	Core:  Html, MarkDown, javascript
+	Deployment: Git
+	IDE: Webstorm
